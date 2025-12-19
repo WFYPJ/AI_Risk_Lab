@@ -29,3 +29,10 @@ The system operationalizes the **DIKW (Data-Information-Knowledge-Wisdom)** hier
 
 ## ⚖️ Governance & Ethics
 This system implements "Human-in-the-Loop" governance, ensuring that AI insights serve as decision support rather than unchecked automated actions. It addresses algorithmic bias through SMOTE and maintains full auditability via immutable data snapshots.
+
+## 🖥️ Application Screenshots
+
+
+
+
+

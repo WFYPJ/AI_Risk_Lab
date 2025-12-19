@@ -30,8 +30,24 @@ The system operationalizes the **DIKW (Data-Information-Knowledge-Wisdom)** hier
 ## ⚖️ Governance & Ethics
 This system implements "Human-in-the-Loop" governance, ensuring that AI insights serve as decision support rather than unchecked automated actions. It addresses algorithmic bias through SMOTE and maintains full auditability via immutable data snapshots.
 
-## 🖥️ Application Screenshots
+## 🖥️ Application Overview
+ docs/ui_overview.png
+ 
+## 🔍 AI Risk Assessment Workflow
 
+### AI-Based Credit Risk Scoring
+![Credit Risk Scoring](docs/ui_credit_risk_scoring.png)
+
+### Ground Truth Injection & Feedback Loop
+![Ground Truth Feedback](docs/ui_ground_truth_feedback.png)
+
+## 📊 Data Governance & MLOps
+
+### Dataset Snapshot Versioning
+![Data Snapshot Versioning](docs/data_snapshot_versioning.png)
+
+### Model Retraining Pipeline Execution
+![Model Retraining](docs/model_retraining_success.png)
 
 
 
